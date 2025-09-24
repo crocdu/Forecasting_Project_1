@@ -7,8 +7,8 @@ from sklearn.ensemble import HistGradientBoostingRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 # ====== EDIT THESE ======
-BUYS_CSV  = Path("/Users/jingyu/Desktop/Industry Placement/Placement Things/audusd deals.csv")     # Settlement Date, Buy Amount
-PRICE_CSV = Path("/Users/jingyu/Downloads/Caustic_Soda_Weekly_Price.csv")
+BUYS_CSV  = Path("/audusd deals.csv")     # Settlement Date, Buy Amount
+PRICE_CSV = Path("/Caustic_Soda_Weekly_Price.csv")
 DAYFIRST = True
 TRAIN_START = "2023-01-01"
 VALID_WEEKS = 16
