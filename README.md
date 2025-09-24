@@ -1,4 +1,4 @@
-# Training a Machine Learning Model to Forecast USD Purchases  
+# Jing - Training a Machine Learning Model to Forecast USD Purchases  
 
 ## Overview  
 This project forecasts the company’s future USD purchasing needs using commodity price data.  
